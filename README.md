@@ -42,7 +42,7 @@ Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
 
 <div>
 <span> <h2>Coding Profiles </h2>
-<a  href="https://leetcode.com/u/sharmaanand5213/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a  href="https://leetcode.com/u/sharmanand5213/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/dashboard" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a  href="https://www.codingninjas.com/" target="_blank"><img alt="Code Studio" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" /></a></span>  
 </div>
