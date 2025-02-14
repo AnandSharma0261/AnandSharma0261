@@ -65,7 +65,7 @@ Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
   </table>
    <table>
    <tr>
-     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnandAgbe0402&theme=vue" alt="Vivek Pandey"/></td>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnandSharma0261&theme=vue" alt="Vivek Pandey"/></td>
   </tr>
 </table>
 <picture>
