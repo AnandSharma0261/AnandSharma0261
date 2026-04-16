@@ -9,7 +9,7 @@ I am <b>Anand Sharma</b>, a <b>Computer Science Graduate</b> from IIMT College o
 - 💬 Ask me anything about NodeJs 
 - 📫 How to reach me: Sharmaanand5213@gmail.com
 - 😄 My website: https://anandsharma0261.github.io/PortFolio_Website/
-- ⚡ Fun fact: I'm comming to teen
+
 
 <h2>Technical Skills</h2>
 
