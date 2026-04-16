@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm <a href="" target="_blank"> Anand Sharma </a></h1>
 
-I am <b>Anand Sharma</b>, a <b>Computer Science Graduate</b> from IIMT College of Engineering, Greater Noida, Currently working as Software Developer Trainee at <b>Agbe Technologies.</b>
+I am <b>Anand Sharma</b>, a <b>Computer Science Graduate</b> from IIMT College of Engineering, Greater Noida, Currently working as Full Stack Developer at <b>Team Pumpkin</b>
 
 <h3 align="center"> Software Engineer </h3>
 
